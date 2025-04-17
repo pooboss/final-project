@@ -347,7 +347,7 @@
 #X text 52 107 Possible Notes:;
 #X text 74 334 FM;
 #X text 156 334 Filter LFO;
-#N canvas 733 172 450 300 Filter 1;
+#N canvas 733 172 450 300 Filter 0;
 #X obj 552 536 snapshot~;
 #X floatatom 524 572 5 0 0 0 - - - 12;
 #X obj 524 375 loadbang;
